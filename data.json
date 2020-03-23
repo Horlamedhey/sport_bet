@@ -1,0 +1,325 @@
+[
+  {
+    "league": "Vysshaya Liga",
+    "matches": [
+      {
+        "awayTeam": "Neman",
+        "homeTeam": "Isloch Minsk",
+        "league": "Vysshaya Liga",
+        "leagueId": "47",
+        "result": "1 - 0",
+        "matchId": "363927",
+        "status": "90 ",
+        "date": "2020-03-21",
+        "time": "14:00",
+        "odds": { "odd_1": "1.86", "odd_2": "3.70", "odd_x": "3.25" }
+      }
+    ]
+  },
+  {
+    "league": "Club Friendly",
+    "matches": [
+      {
+        "awayTeam": "Trollhattan (Swe)",
+        "homeTeam": "Skovde AIK (Swe)",
+        "league": "Club Friendly",
+        "leagueId": "621",
+        "result": "2 - 1",
+        "matchId": "369048",
+        "status": "81 ",
+        "date": "2020-03-21",
+        "time": "14:00",
+        "odds": { "odd_1": "1.90", "odd_2": "3.15", "odd_x": "3.85" }
+      },
+      {
+        "awayTeam": "Varnamo (Swe)",
+        "homeTeam": "Sylvia (Swe)",
+        "league": "Club Friendly",
+        "leagueId": "621",
+        "result": "0 - 2",
+        "matchId": "369049",
+        "status": "58 ",
+        "date": "2020-03-21",
+        "time": "14:30",
+        "odds": { "odd_1": "2.38", "odd_2": "2.38", "odd_x": "3.85" }
+      }
+    ]
+  },
+  {
+    "league": "Primus League",
+    "matches": [
+      {
+        "awayTeam": "Ngozi City",
+        "homeTeam": "LLB-S4A",
+        "league": "Primus League",
+        "leagueId": "86",
+        "result": "-",
+        "matchId": "343868",
+        "status": "FRO",
+        "date": "2020-03-21",
+        "time": "14:00",
+        "odds": { "odd_1": "1.50", "odd_2": "5.50", "odd_x": "3.55" }
+      },
+      {
+        "awayTeam": "Dynamik",
+        "homeTeam": "Olympic S.",
+        "league": "Primus League",
+        "leagueId": "86",
+        "result": "-",
+        "matchId": "343869",
+        "status": "FRO",
+        "date": "2020-03-21",
+        "time": "14:00",
+        "odds": { "odd_1": "1.80", "odd_2": "4.00", "odd_x": "3.25" }
+      },
+      {
+        "awayTeam": "Les Lierres",
+        "homeTeam": "Rukinzo",
+        "league": "Primus League",
+        "leagueId": "86",
+        "result": "-",
+        "matchId": "343870",
+        "status": "FRO",
+        "date": "2020-03-21",
+        "time": "15:00",
+        "odds": { "odd_1": "1.51", "odd_2": "5.50", "odd_x": "3.70" }
+      },
+      {
+        "awayTeam": "Flambeau du Centre",
+        "homeTeam": "Inter Star",
+        "league": "Primus League",
+        "leagueId": "86",
+        "result": "-",
+        "matchId": "343871",
+        "status": "FRO",
+        "date": "2020-03-22",
+        "time": "12:30",
+        "odds": { "odd_1": "2.34", "odd_2": "2.90", "odd_x": "2.90" }
+      },
+      {
+        "awayTeam": "Aigle Noir",
+        "homeTeam": "Bumamuru",
+        "league": "Primus League",
+        "leagueId": "86",
+        "result": "-",
+        "matchId": "343867",
+        "status": "FRO",
+        "date": "2020-03-22",
+        "time": "14:00",
+        "odds": { "odd_1": "2.34", "odd_2": "2.65", "odd_x": "3.20" }
+      },
+      {
+        "awayTeam": "Vital'O",
+        "homeTeam": "Atletico Olympic",
+        "league": "Primus League",
+        "leagueId": "86",
+        "result": "-",
+        "matchId": "343873",
+        "status": "FRO",
+        "date": "2020-03-22",
+        "time": "15:00",
+        "odds": { "odd_1": "3.70", "odd_2": "1.85", "odd_x": "3.30" }
+      },
+      {
+        "awayTeam": "Le Messager Ngozi",
+        "homeTeam": "Musongati",
+        "league": "Primus League",
+        "leagueId": "86",
+        "result": "-",
+        "matchId": "343872",
+        "status": "FRO",
+        "date": "2020-03-22",
+        "time": "14:00",
+        "odds": { "odd_1": "2.24", "odd_2": "2.90", "odd_x": "3.10" }
+      }
+    ]
+  },
+  {
+    "league": "Girabola",
+    "matches": [
+      {
+        "awayTeam": "Petro Atletico",
+        "homeTeam": "Onze Bravos",
+        "league": "Girabola",
+        "leagueId": "10",
+        "result": "-",
+        "matchId": "305636",
+        "status": "FRO",
+        "date": "2020-03-21",
+        "time": "15:00",
+        "odds": { "odd_1": "3.05", "odd_2": "2.34", "odd_x": "2.95" }
+      },
+      {
+        "awayTeam": "Desportivo Huila",
+        "homeTeam": "Sagrada",
+        "league": "Girabola",
+        "leagueId": "10",
+        "result": "-",
+        "matchId": "305638",
+        "status": "FRO",
+        "date": "2020-03-21",
+        "time": "15:00",
+        "odds": { "odd_1": "1.99", "odd_2": "3.70", "odd_x": "3.15" }
+      },
+      {
+        "awayTeam": "C.R.D. Libolo",
+        "homeTeam": "Interclube",
+        "league": "Girabola",
+        "leagueId": "10",
+        "result": "-",
+        "matchId": "305635",
+        "status": "FRO",
+        "date": "2020-03-21",
+        "time": "15:30",
+        "odds": { "odd_1": "2.34", "odd_2": "3.05", "odd_x": "2.95" }
+      },
+      {
+        "awayTeam": "Sporting de Cabinda",
+        "homeTeam": "Caala",
+        "league": "Girabola",
+        "leagueId": "10",
+        "result": "-",
+        "matchId": "305632",
+        "status": "FRO",
+        "date": "2020-03-22",
+        "time": "15:00",
+        "odds": { "odd_1": "1.85", "odd_2": "4.25", "odd_x": "3.15" }
+      },
+      {
+        "awayTeam": "Academica",
+        "homeTeam": "Cubango",
+        "league": "Girabola",
+        "leagueId": "10",
+        "result": "-",
+        "matchId": "305633",
+        "status": "FRO",
+        "date": "2020-03-22",
+        "time": "15:00",
+        "odds": { "odd_1": "3.15", "odd_2": "2.23", "odd_x": "3.05" }
+      },
+      {
+        "awayTeam": "Progresso",
+        "homeTeam": "Ferroviario do Huambo",
+        "league": "Girabola",
+        "leagueId": "10",
+        "result": "-",
+        "matchId": "305634",
+        "status": "FRO",
+        "date": "2020-03-22",
+        "time": "15:00",
+        "odds": { "odd_1": "1.89", "odd_2": "4.30", "odd_x": "3.05" }
+      },
+      {
+        "awayTeam": "Wiliet",
+        "homeTeam": "Santa Rita",
+        "league": "Girabola",
+        "leagueId": "10",
+        "result": "-",
+        "matchId": "305639",
+        "status": "FRO",
+        "date": "2020-03-22",
+        "time": "15:00",
+        "odds": { "odd_1": "2.39", "odd_2": "2.95", "odd_x": "2.95" }
+      }
+    ]
+  },
+  {
+    "league": "Campeonato Brasiliense",
+    "matches": [
+      {
+        "awayTeam": "Real Brasilia",
+        "homeTeam": "Gama",
+        "league": "Campeonato Brasiliense",
+        "leagueId": "75",
+        "result": "-",
+        "matchId": "333298",
+        "status": "FRO",
+        "date": "2020-03-21",
+        "time": "20:00",
+        "odds": { "odd_1": "1.30", "odd_2": "7.75", "odd_x": "4.65" }
+      }
+    ]
+  },
+  {
+    "league": "Super League",
+    "matches": [
+      {
+        "awayTeam": "MAFCO",
+        "homeTeam": "Chitipa United",
+        "league": "Super League",
+        "leagueId": "312",
+        "result": "-",
+        "matchId": "368926",
+        "status": "FRO",
+        "date": "2020-03-22",
+        "time": "13:30",
+        "odds": { "odd_1": "2.03", "odd_2": "3.50", "odd_x": "3.00" }
+      },
+      {
+        "awayTeam": "Red Lions",
+        "homeTeam": "Mighty Wanderers",
+        "league": "Super League",
+        "leagueId": "312",
+        "result": "-",
+        "matchId": "368928",
+        "status": "FRO",
+        "date": "2020-03-22",
+        "time": "13:30",
+        "odds": { "odd_1": "1.23", "odd_2": "8.55", "odd_x": "5.50" }
+      },
+      {
+        "awayTeam": "Ekwendeni Hammers",
+        "homeTeam": "Mzuni",
+        "league": "Super League",
+        "leagueId": "312",
+        "result": "-",
+        "matchId": "368929",
+        "status": "FRO",
+        "date": "2020-03-22",
+        "time": "13:30",
+        "odds": { "odd_1": "1.63", "odd_2": "4.70", "odd_x": "3.50" }
+      },
+      {
+        "awayTeam": "Silver",
+        "homeTeam": "Civo Utd",
+        "league": "Super League",
+        "leagueId": "312",
+        "result": "-",
+        "matchId": "368927",
+        "status": "FRO",
+        "date": "2020-03-22",
+        "time": "13:30",
+        "odds": { "odd_1": "2.60", "odd_2": "2.50", "odd_x": "3.00" }
+      },
+      {
+        "awayTeam": "Ntopwa",
+        "homeTeam": "TN Stars",
+        "league": "Super League",
+        "leagueId": "312",
+        "result": "-",
+        "matchId": "368930",
+        "status": "FRO",
+        "date": "2020-03-22",
+        "time": "13:30",
+        "odds": { "odd_1": "2.08", "odd_2": "3.35", "odd_x": "3.00" }
+      }
+    ]
+  },
+  {
+    "league": "Lowland League",
+    "matches": [
+      {
+        "awayTeam": "BSC Glasgow",
+        "homeTeam": "Stirling University",
+        "league": "Lowland League",
+        "leagueId": "427",
+        "result": "-",
+        "matchId": "261601",
+        "status": "FRO",
+        "date": "2020-03-24",
+        "time": "20:45",
+        "odds": { "odd_1": "6.00", "odd_2": "1.36", "odd_x": "4.60" }
+      }
+    ]
+  }
+]
